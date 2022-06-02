@@ -1,0 +1,22 @@
+title:17赛季枪械愿望清单
+
+// Nezarec's Whisper - 奈扎雷克PVE (pve)
+//notes: tags:pve
+dimwishlist:item=254
+// Tears of Contrition - 悔恨泪水高稳定 (pve)
+//notes: tags:pve
+dimwishlist:item=1366394399&perks=839105230,3177308360,3974407819,64866129
+dimwishlist:item=1366394399&perks=839105230,3177308360,3974407819,3038247973
+dimwishlist:item=1366394399&perks=839105230,3177308360,2866798147,64866129
+dimwishlist:item=1366394399&perks=839105230,3177308360,2866798147,3038247973
+
+
+// CALUS Mini-Tool - 卡鲁斯迷你PVE (pve)
+//notes: tags:pve
+dimwishlist:item=2490988246&perks=839105230,3230963543,855168139,2779035018
+
+
+// Austringer - 养鹰人高稳定PVP (pvp)
+//notes: tags:pvp
+dimwishlist:item=3055790362&perks=1840239774,1885400500,2898218424,509594246
+
