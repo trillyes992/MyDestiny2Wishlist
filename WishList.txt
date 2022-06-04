@@ -24,3 +24,9 @@ dimwishlist:item=3055790362&perks=,3722653512,2846385770
 // Austringer -  (pve)
 //notes: tags:pve
 dimwishlist:item=3849810018&perks=,3300816228,3523296417
+
+//不散恐惧 - 高速和谐增伤 (pve)
+dimwishlist:item=2026087437&perks=3798852852,3492396210,3300816228,438098033
+
+//新目标 - PVP匪徒 (pvp)
+dimwishlist:item=1780464822&perks=839105230,3230963543,2946784966,3047969693
